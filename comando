@@ -1,0 +1,4 @@
+node server.js
+node generate-keys.js 1000
+FB9B6B12FD387FE615A8C2ED
+http://ip_ou_dominio:3000
